@@ -1,10 +1,8 @@
 ---
 layout: post
-title: You're up and running!
+title: Introduction
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Hey! My name is Jonari Ward and I'm from Rock Hill, South Carolina. I'm a double major in Computing in the Arts (Theatre) and Theatre (Performance). 
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+After graduation, I plan to begin filming and editing videos with artists so I can hone and develop my cinematography skills, along with building a reel. Maybe after a year I will aim for graudate school to further my education. 
